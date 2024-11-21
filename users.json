@@ -1,0 +1,30 @@
+{
+    "user1": {
+        "email": "user1@example.com",
+        "password": "123456"
+    },
+    "user2": {
+        "email": "user2@example.com",
+        "password": "abcdef"
+    },
+    "huy": {
+        "email": "huy",
+        "password": "123123"
+    },
+    "huy1": {
+        "email": "huy1",
+        "password": "123"
+    },
+    "duc": {
+        "email": "duc",
+        "password": "123"
+    },
+    "qa": {
+        "email": "qa",
+        "password": "123123"
+    },
+    "huydo": {
+        "email": "huydo",
+        "password": "123123"
+    }
+}
